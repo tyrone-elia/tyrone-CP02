@@ -1,1 +1,3 @@
-console.log('hmmmmmm')
+var colors = require('colors')
+
+console.log('hmmmmmm'.blue)
